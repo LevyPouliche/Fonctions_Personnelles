@@ -1,132 +1,30 @@
 <!DOCTYPE html>
 <html lang="fr">
+    
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>12 x 12</title>
+<title>Bouton Date De Péremption</title>
 <link rel="stylesheet" href="Style.css">
 </head>
+    
 <body>
-    <header>
-
-        <nav class="navigation-horizontale">
-  
-            <ul>
-  
-                <!--<li><img src="logo.jpg" alt="logo"></li> A AJUSTER.-->
-  
-                <li><a href="Index.html">Accueil</a></li>
-  
-                <li><a href="#">Grandeurs</a>
-                    <ul class="sous-navigation">
-                      <li><a href="12x12.html">12 x 12</a></li>
-                      <li><a href="12x16.html">12 x 16</a></li>
-                      <li><a href="12x18.html">12 x 18</a></li>
-                      <li><a href="12x24.html">12 x 24</a></li>
-                      <li><a href="12x36.html">12 x 36</a></li>
-                      <li><a href="19x39.html">19 x 39</a></li>
-                      <li><a href="20x20.html">20 x 20</a></li>
-                      <li><a href="20x40.html">20 x 40</a></li>
-                      <li><a href="20x60.html">20 x 60</a></li>
-                      <li><a href="24x24.html">24 x 24</a></li>
-                      <li><a href="24x36Populaire.html">24 x 36 Populaire</a></li>
-                      <li><a href="24x36HautDeGamme.html">24 x 36 Haut De Gamme</a></li>
-                      <li><a href="24x48.html">24 x 48</a></li>
-                      <li><a href="27x27.html">27 x 27</a></li>
-                      <li><a href="27x54.html">27 x 54</a></li>
-                      <li><a href="28x42.html">28 x 42</a></li>
-                      <li><a href="30x30.html">30 x 30</a></li>
-                      <li><a href="30x40.html">30 x 40</a></li>
-                      <li><a href="30x60.html">30 x 60</a></li>
-                      <li><a href="32x48.html">32 x 48</a></li>
-                      <li><a href="35x35.html">35 x 35</a></li>
-                      <li><a href="36x48.html">36 x 48</a></li>
-                      <li><a href="36x54.html">36 x 54</a></li>
-                      <li><a href="40x40.html">40 x 40</a></li>
-                      <li><a href="40x54.html">40 x 54</a></li>
-                      <li><a href="40x60.html">40 x 60</a></li>
-                      <li><a href="SamToft.html">Sam Toft</a></li>
-                    </ul>
-                </li>
-  
-                <li><a href="Liste_Complete.html">Liste Complete</a></li>
-  
-                <li><a href="Liste_Commande.html">Liste Commande</a></li>
-  
-                <li><a href="Vendus.html">Vendus</a></li>
-  
-                <li><a href="Ajout_Cadre.html">Ajout De Cadre</a></li>
-  
-                <li>
-                  <div>
-                    <input type="text" id="searchBar" onkeyup="searchItems()" placeholder="Rechercher">
-                    <button>Rechercher</button>
-                  </div>
-                </li>
-  
-            </ul>
-  
-        </nav>
-  
-        </header>
+    
+    
 
 <div class="grid-container">
 
-    <div class="item" id="Betty_Boop_Murciano">
-        <img src="test.png" alt="Betty_Boop_Murciano">
-        <br>
-        Betty Boop
-        <br>
-        <button onclick="afficherJourEtDate()">date entree</button>
+    <div class="item">
+        <!-- Lorsque le bouton appuyé, affiche la date actuelle. -->
+        <button onclick="afficherJourEtDate()">date entrée</button>
         <span id="jourDateDuJour"></span>
         <span id="peremption"></span>
         <br>
-        <label>
-            <input type="checkbox" name="Commande" value="Betty Boop">
-            Commander
-        </label>
-        <br>
-        <form action="https://grifgraf.ca/betty-boop.html">
-            <input type="submit" value="Lien Web">
-        </form>
-    </div>
-
-    <div class="item" id="12_Pole_Divers">
-        <img src="test1.png" alt="12_Pole_Divers">
-        <br>
-        12 Pole
-        <br>
-        <button>date entree</button>
-        <br>
-        <label>
-            <input type="checkbox" name="Commande" value="12 Pole">
-            Commander
-        </label>
-        <br>
-        <form action="https://grifgraf.ca/n-a-4395.html">
-            <input type="submit" value="Lien Web">
-        </form>
-    </div>
-
-    <div class="item" id="Africa_Divers">
-        <img src="test2.png" alt="Africa_Divers">
-        <br>
-        Africa
-        <br>
-        <button>date entree</button>
-        <br>
-        <label>
-            <input type="checkbox" name="Commande" value="Africa">
-            Commander
-        </label>
-        <br>
-        <form action="https://grifgraf.ca/n-a-4462.html">
-            <input type="submit" value="Lien Web">
-        </form>
     </div>
 
 </div>
 
+<!-- Bouton calendrier mensuel. NE FONCTIONNE PAS. -->
 <label for="date">Choisir une date :</label>
     <input type="date" id="peremption">
     <!--Ajouter bouton de sauvegarde.-->
@@ -159,9 +57,7 @@
     setInterval(afficherHeure, 1000);
   </script>
 <script src="Date.js"></script>
-<script src="quantite.js"></script>
 <script src="Liste_Commande.html"></script>
-<script src="Recherche.js"></script>
 
 </body>
 </html>
