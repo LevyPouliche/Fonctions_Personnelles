@@ -1,0 +1,27 @@
+.mybutton {
+  border-style: outset;
+  background-color: #38a3a5;
+  border-top-color: #2d7d90;
+  border-right-color: #2d7d90;
+  border-bottom-color: #2d7d90;
+  border-left-color: #2d7d90;
+  border-radius: 100px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Quicksand;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s ease-in-out;
+  touch-action: manipulation;
+  white-space: nowrap;
+}
+
+.mybutton:not([disabled]):focus {
+  box-shadow: 10px 7px 84px 0px rgba(56, 163, 165, 1);
+}
+
+.mybutton:not([disabled]):hover {
+  box-shadow: 10px 7px 84px 0px rgba(56, 163, 165, 1);
+}
