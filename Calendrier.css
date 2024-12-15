@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.calendar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    background-color: #38a3a5;
+    padding: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+#daysContainer {
+    display: grid;
+    grid-template-columns: repeat(7, 40px);
+    grid-gap: 5px;
+}
+
+#daysContainer div {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.fleches{
+    background-color: #38a3a5;
+    border: none;
+    color: #fff;
+}
+
+/* Conteneur des jours de la semaine sous le mois */
+.weekDaysContainer {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); /* 7 colonnes pour chaque jour de la semaine */
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Ajouter l'ombre lors du survol */
+#daysContainer div:hover {
+    box-shadow: 0 4px 15px rgba(56, 163, 165, 0.7); /* Bleu semi-transparent */
+}
+
+/* Style pour la journée actuelle */
+.today {
+    background-color: #fff !important; /* Couleur de fond jaune forcée */
+    border: 2px solid #38a3a5 !important; /* Bordure orange forcée */
+    font-weight: bolder;
+    color: #38a3a5 !important; /* Texte en noir forcé */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Ombre plus marquée */
+}
