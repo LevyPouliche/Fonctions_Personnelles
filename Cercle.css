@@ -1,0 +1,17 @@
+.pastille-bleue {
+    height: 25px;
+    width: 25px;
+    background-color: #38a3a5;
+    border-radius: 50%;
+    display: inline-block;
+    
+  }
+
+  .pastille-grise {
+    height: 25px;
+    width: 25px;
+    background-color: #b3e4e5;
+    border-radius: 50%;
+    display: inline-block;
+    
+  }

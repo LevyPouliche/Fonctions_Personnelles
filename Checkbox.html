@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkbox</title>
+</head>
+<body>
+
+  <form>
+    <fieldset>
+      <legend>Category 1</legend>
+      <label>
+        <img src="test.png" alt="Option 1 Image" width="50" height="50">
+        <input type="checkbox" name="category1" value="option1" onchange="updateCheckboxes()"> Option 1
+      </label><br>
+      <label>
+        <img src="test1.png" alt="Option 2 Image" width="50" height="50">
+        <input type="checkbox" name="category1" value="option2" onchange="updateCheckboxes()"> Option 2
+      </label><br>
+      <label>
+        <img src="test2.png" alt="Option 3 Image" width="50" height="50">
+        <input type="checkbox" name="category1" value="option3" onchange="updateCheckboxes()"> Option 3
+      </label><br>
+    </fieldset>
+
+    <fieldset>
+      <legend>Category 2</legend>
+      <label>
+        <img src="test.png" alt="Option 4 Image" width="50" height="50">
+        <input type="checkbox" name="category2" value="option4" onchange="updateCheckboxes()"> Option 4
+      </label><br>
+      <label>
+        <img src="test1.png" alt="Option 5 Image" width="50" height="50">
+        <input type="checkbox" name="category2" value="option5" onchange="updateCheckboxes()"> Option 5
+      </label><br>
+      <label>
+        <img src="test2.png" alt="Option 6 Image" width="50" height="50">
+        <input type="checkbox" name="category2" value="option6" onchange="updateCheckboxes()"> Option 6
+      </label><br>
+    </fieldset>
+  </form>
+
+  <p id="result">Checked: </p>
+
+  <script>
+    function updateCheckboxes() {
+      // Récupérer toutes les cases à cocher avec le nom "category1" et "category2"
+      var category1Checkboxes = document.querySelectorAll('input[name="category1"]:checked');
+      var category2Checkboxes = document.querySelectorAll('input[name="category2"]:checked');
+
+      // Construire la chaîne de résultats en fonction des cases cochées dans chaque catégorie
+      var result = 'Selected options: ';
+
+      category1Checkboxes.forEach(function(checkbox) {
+        result += 'Category 1 - ' + checkbox.value + ' ';
+      });
+
+      category2Checkboxes.forEach(function(checkbox) {
+        result += 'Category 2 - ' + checkbox.value + ' ';
+      });
+
+      // Mettre à jour le paragraphe avec les options sélectionnées
+      document.getElementById('result').textContent = result;
+    }
+  </script>
+
+</body>
+</html>
+
