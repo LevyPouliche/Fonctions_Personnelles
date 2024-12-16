@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Champ de Saisie pour Nombres</title>
+</head>
+<body>
+
+    <input type="text" id="input1">
+    <input type="text" id="input2">
+    <button onclick="compareInputs()">Comparer</button>
+
+    <script>
+        function compareInputs() {
+// Récupérer les valeurs des deux champs de texte
+var input1Value = document.getElementById("input1").value;
+var input2Value = document.getElementById("input2").value;
+// Comparer les valeurs
+if (input1Value === input2Value) {
+    alert("Les entrées sont identiques !");
+} else {
+    alert("Les entrées ne sont pas identiques.");
+}
+        }
+    </script>
+</body>
+</html>
