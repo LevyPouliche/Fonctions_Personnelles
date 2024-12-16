@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Champ de Saisie pour Nombres</title>
+</head>
+
+<style>
+input, textarea, select {
+  border: 2px solid #9a8c98;
+  border-radius: 10px;
+  background-color: #c9ada7;
+  color: #9a8c98;
+}
+</style>
+
+<body>
+
+<label for="numericInput">Entrez un nombre :</label>
+<input type="number" id="numericInput" name="numericInput" required>
+<p>Valeur dans la variable : <span id="output">0</span></p>
+
+<script>
+  // Sélection de l'élément input
+  const numericInput = document.getElementById('numericInput');
+  const output = document.getElementById('output');
+
+  // Déclaration de la variable
+  let variable = 0;
+
+  // Écoute des changements sur l'input
+  numericInput.addEventListener('input', () => {
+      // Mise à jour de la variable
+      variable = numericInput.value;
+
+      // Mise à jour de l'affichage
+      output.textContent = variable;
+  });
+</script>
+
+</body>
+</html>
+
