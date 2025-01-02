@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bouton Date De Peremption</title>
+<link rel="stylesheet" href="Style.css">
+</head>
+<body>
+
+    <div class="grid-container">
+
+        <div class="item" id="Betty_Boop_Murciano">
+            <img src="test.png" alt="Betty_Boop_Murciano">
+            <br>
+            Betty Boop
+            <br>
+            <button onclick="afficherJourEtDate(event)">Date entrée</button>
+            <br>
+            <span class="jourDateDuJour"></span>
+            <br>
+            <label for="choisirDate_Betty">Date sortie</label>
+            <input type="date" id="choisirDate_Betty">
+            <button onclick="saveData(event)">Enregistrer les données</button>
+        </div>
+    
+        <div class="item" id="12_Pole_Divers">
+            <img src="test1.png" alt="12_Pole_Divers">
+            <br>
+            12 Pole
+            <br>
+            <button onclick="afficherJourEtDate(event)">Date entrée</button>
+            <br>
+            <span class="jourDateDuJour"></span>
+            <br>
+            <label for="choisirDate_12Pole">Date sortie</label>
+            <input type="date" id="choisirDate_12Pole">
+            <button onclick="saveData(event)">Enregistrer les données</button>
+        </div>
+    
+        <div class="item" id="Africa_Divers">
+            <img src="test2.png" alt="Africa_Divers">
+            <br>
+            Africa
+            <br>
+            <button onclick="afficherJourEtDate(event)">Date entrée</button>
+            <br>
+            <span class="jourDateDuJour"></span>
+            <br>
+            <label for="choisirDate_Africa">Date sortie</label>
+            <input type="date" id="choisirDate_Africa">
+            <button onclick="saveData(event)">Enregistrer les données</button>
+        </div>
+    
+    </div>    
+
+<script>
+// Fonction pour afficher la date et l'heure actuelles
+function afficherJourEtDate(event) {
+    const date = new Date();
+    const jour = date.toLocaleDateString('fr-FR');
+    const heure = date.toLocaleTimeString('fr-FR');
+
+    const parent = event.target.parentElement;
+    const spanDate = parent.querySelector('.jourDateDuJour');
+
+    if (spanDate) {
+        spanDate.textContent = `Date : ${jour} - Heure : ${heure}`;
+    }
+}
+
+// Fonction pour sauvegarder les données dans le localStorage
+function saveData(event) {
+    const parent = event.target.parentElement; // Trouve le conteneur parent
+    const id = parent.id; // Récupère l'ID unique
+
+    // Récupère la date d'entrée (texte dans le span)
+    const dateEntree = parent.querySelector('.jourDateDuJour')?.textContent || "Non défini";
+
+    // Récupère la date de sortie (valeur de l'input)
+    const dateSortie = parent.querySelector('input[type="date"]')?.value || "Non définie";
+
+    // Crée un objet pour stocker les données
+    const data = {
+        id: id,
+        dateEntree: dateEntree,
+        dateSortie: dateSortie
+    };
+
+    // Enregistre dans le localStorage
+    localStorage.setItem(id, JSON.stringify(data));
+    
+    // Vérification dans la console
+    console.log(`Données enregistrées pour ${id} :`, data);
+
+    alert(`Données enregistrées pour ${id}`);
+}
+
+</script>
+
+
+</body>
+</html>
+
