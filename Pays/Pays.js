@@ -32,12 +32,12 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Bulgarie", flag: "Drapeaux/Bulgarie.png" },
     { code: "XX", name: "Burkina_Faso", flag: "Drapeaux/Burkina_Faso.png" },
     { code: "XX", name: "Burundi", flag: "Drapeaux/Burundi.png" },
+    { code: "XX", name: "Cambodge", flag: "Drapeaux/Cambodge.png" },
+    { code: "XX", name: "Cameroun", flag: "Drapeaux/Cameroun.webp" },
+    { code: "XX", name: "Canada", flag: "Drapeaux/Canada.png" },
+    { code: "XX", name: "Cap_Vert", flag: "Drapeaux/Cap_Vert.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Cambodge.png" alt="Cambodge" /> Cambodge</a>
-    <a href="#"><img src="Drapeaux/Cameroun.webp" alt="Cameroun" /> Cameroun</a>
-    <a href="#"><img src="Drapeaux/Canada.png" alt="Canada" /> Canada</a>
-    <a href="#"><img src="Drapeaux/Cap_Vert.png" alt="Cap-Vert" /> Cap-Vert</a>
     <a href="#"><img src="Drapeaux/Republique_Centrafricaine.webp" alt="Centrafrique (République de)" /> Centrafrique (République de)</a>
     <a href="#"><img src="Drapeaux/Chili.png" alt="Chili" /> Chili</a>
     <a href="#"><img src="Drapeaux/Chine.webp" alt="Chine" /> Chine</a>
