@@ -14,20 +14,20 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Australie", flag: "Drapeaux/Australie.png" },
     { code: "XX", name: "Autriche", flag: "Drapeaux/Autriche.png" },
     { code: "XX", name: "Azerbaidjan", flag: "Drapeaux/Azerbaidjan.png" },
+    { code: "XX", name: "Bahamas", flag: "Drapeaux/Bahamas.png" },
+    { code: "XX", name: "Bahrein", flag: "Drapeaux/Bahrein.png" },
+    { code: "XX", name: "Bangladesh", flag: "Drapeaux/Bangladesh.png" },
+    { code: "XX", name: "Barbade", flag: "Drapeaux/Barbade.png" },
+    { code: "XX", name: "Belgique", flag: "Drapeaux/Belgique.png" },
+    { code: "XX", name: "Belize", flag: "Drapeaux/Belize.png" },
+    { code: "XX", name: "Benin", flag: "Drapeaux/Benin.png" },
+    { code: "XX", name: "Bhoutan", flag: "Drapeaux/Bhoutan.png" },
+    { code: "XX", name: "Bielorussie", flag: "Drapeaux/Bielorussie" },
+    { code: "XX", name: "Birmanie", flag: "Drapeaux/Birmanie.png" },
+    { code: "XX", name: "Bolivie", flag: "Drapeaux/Bolivie.png" },
+    { code: "XX", name: "Bosnie_Herzegovine", flag: "Drapeaux/Bosnie_Herzegovine.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Bahamas.png" alt="Bahamas" /> Bahamas</a>
-    <a href="#"><img src="Drapeaux/bahrein.png" alt="Bahreïn" /> Bahreïn</a>
-    <a href="#"><img src="Drapeaux/Bangladesh.png" alt="Bangladesh" /> Bangladesh</a>
-    <a href="#"><img src="Drapeaux/Barbade.png" alt="Barbade" /> Barbade</a>
-    <a href="#"><img src="Drapeaux/Belgique.svg" alt="Belgique" /> Belgique</a>
-    <a href="#"><img src="Drapeaux/Belize.png" alt="elize" /> elize</a>
-    <a href="#"><img src="Drapeaux/Benin.png" alt="Bénin" /> Bénin</a>
-    <a href="#"><img src="Drapeaux/Bhoutan.png" alt="Bhoutan" /> Bhoutan</a>
-    <a href="#"><img src="Drapeaux/Bioelorussie.png" alt="Biélorussie" /> Biélorussie</a>
-    <a href="#"><img src="Drapeaux/Birmanie.png" alt="Birmanie (Myanmar)" /> Birmanie (Myanmar)</a>
-    <a href="#"><img src="Drapeaux/Bolivie.png" alt="Bolivie" /> Bolivie</a>
-    <a href="#"><img src="Drapeaux/Bosnie_Herzegovine.png" alt="Bosnie-Herzégovine" /> Bosnie-Herzégovine</a>
     <a href="#"><img src="Drapeaux/Botswana.png" alt="Botswana" /> Botswana</a>
     <a href="#"><img src="Drapeaux/Bresil.png" alt="Brésil" /> Brésil</a>
     <a href="#"><img src="Drapeaux/Brunei.png" alt="Brunei" /> Brunei</a>
