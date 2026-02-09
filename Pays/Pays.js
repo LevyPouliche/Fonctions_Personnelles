@@ -53,11 +53,11 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Danemark", flag: "Drapeaux/Danemark.png" },
     { code: "XX", name: "Djibouti", flag: "Drapeaux/Djibouti.png" },
     { code: "XX", name: "Dominique", flag: "Drapeaux/Dominique.png" },
+    { code: "XX", name: "Egypte", flag: "Drapeaux/Egypte.png" },
+    { code: "XX", name: "Emirats_Arabe_Unis", flag: "Drapeaux/Emirats_Arabe_Unis.png" },
+    { code: "XX", name: "Equateur", flag: "Drapeaux/Equateur.png" },
+    { code: "XX", name: "Erythree", flag: "Drapeaux/Erythree.png" },
     { code: "XX", name: "XX", flag: "XX" },
-    { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Egypte.png" alt="Égypte" /> Égypte</a>
-    <a href="#"><img src="Drapeaux/Emirats_Arabe_Unis.png" alt="Émirats arabes unis" /> Émirats arabes unis</a>
-    <a href="#"><img src="Drapeaux/Equateur.png" alt="Équateur" /> Équateur</a>
     <a href="#"><img src="Drapeaux/Erythree.png" alt="Érythrée" /> Érythrée</a>
     <a href="#"><img src="Drapeaux/Espagne.png" alt="Espagne" /> Espagne</a>
     <a href="#"><img src="Drapeaux/Estonie.png" alt="Estonie" /> Estonie</a>
