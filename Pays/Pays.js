@@ -1,20 +1,21 @@
 export function createCountrySelector(containerId) {
   const countries = [
+    { code: "XX", name: "Afghanistan", flag: "Drapeaux/Afghanistan.png" },
+    { code: "XX", name: "Afrique_Du_Sud", flag: "Drapeaux/Afrique_Du_Sud.png" },
+    { code: "XX", name: "Albanie", flag: "Drapeaux/Albanie.png" },
+    { code: "XX", name: "Algerie", flag: "Drapeaux/Algerie.png" },
+    { code: "XX", name: "Allemagne", flag: "Drapeaux/Allemagne.png" },
+    { code: "XX", name: "Andorre", flag: "Drapeaux/Andorre.png" },
+    { code: "XX", name: "Angola", flag: "Drapeaux/Angola.png" },
+    { code: "XX", name: "Antigua_Et_Barbuda", flag: "Drapeaux/Antigua_Et_Barbuda.png" },
+    { code: "XX", name: "Arabie_Saoudite", flag: "Drapeaux/Arabie_Saoudite.png" },
+    { code: "XX", name: "Argentine", flag: "Drapeaux/Argentine.png" },
+    { code: "XX", name: "Armenie", flag: "Drapeaux/Armenie.png" },
+    { code: "XX", name: "Australie", flag: "Drapeaux/Australie.png" },
+    { code: "XX", name: "Autriche", flag: "Drapeaux/Autriche.png" },
+    { code: "XX", name: "Azerbaidjan", flag: "Drapeaux/Azerbaidjan.png" },
     { code: "XX", name: "XX", flag: "XX" },
-        <a href="#"><img src="Drapeaux/Afghanistan.png" alt="Afghanistan" /> Afghanistan</a>
-    <a href="#"><img src="Drapeaux/Afrique_Du_Sud.png" alt="Afrique du Sud" /> Afrique du Sud</a>
-    <a href="#"><img src="Drapeaux/Albanie.png" alt="Albanie" /> Albanie</a>
-    <a href="#"><img src="Drapeaux/Algerie.png" alt="Algérie" /> Algérie</a>
-    <a href="#"><img src="Drapeaux/Allemagne.png" alt="Allemagne" /> Allemagne</a>
-    <a href="#"><img src="Drapeaux/Andorre.png" alt="Andorre" /> Andorre</a>
-    <a href="#"><img src="Drapeaux/Angola.png" alt="Angola" /> Angola</a>
-    <a href="#"><img src="Drapeaux/Antigua_Et_Barbuda.png" alt="Antigua-et-Barbuda" /> Antigua-et-Barbuda</a>
-    <a href="#"><img src="Drapeaux/Arabie_Saoudite.png" alt="Arabie saoudite" /> Arabie saoudite</a>
-    <a href="#"><img src="Drapeaux/Argentine.png" alt="Argentine" /> Argentine</a>
-    <a href="#"><img src="Drapeaux/Armenie.png" alt="Arménie" /> Arménie</a>
-    <a href="#"><img src="Drapeaux/Australie.png" alt="Australie" /> Australie</a>
-    <a href="#"><img src="Drapeaux/Autriche.png" alt="Autriche" /> Autriche</a>
-    <a href="#"><img src="Drapeaux/Azerbaidjan.png" alt="Azerbaïdjan" /> Azerbaïdjan</a>
+    { code: "XX", name: "XX", flag: "XX" },
     <a href="#"><img src="Drapeaux/Bahamas.png" alt="Bahamas" /> Bahamas</a>
     <a href="#"><img src="Drapeaux/bahrein.png" alt="Bahreïn" /> Bahreïn</a>
     <a href="#"><img src="Drapeaux/Bangladesh.png" alt="Bangladesh" /> Bangladesh</a>
