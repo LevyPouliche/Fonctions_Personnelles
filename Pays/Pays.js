@@ -26,14 +26,14 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Birmanie", flag: "Drapeaux/Birmanie.png" },
     { code: "XX", name: "Bolivie", flag: "Drapeaux/Bolivie.png" },
     { code: "XX", name: "Bosnie_Herzegovine", flag: "Drapeaux/Bosnie_Herzegovine.png" },
+    { code: "XX", name: "Botswana", flag: "Drapeaux/Botswana.png" },
+    { code: "XX", name: "Bresil", flag: "Drapeaux/Bresil.png" },
+    { code: "XX", name: "Brunei", flag: "Drapeaux/Brunei.png" },
+    { code: "XX", name: "Bulgarie", flag: "Drapeaux/Bulgarie.png" },
+    { code: "XX", name: "Burkina_Faso", flag: "Drapeaux/Burkina_Faso.png" },
+    { code: "XX", name: "Burundi", flag: "Drapeaux/Burundi.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Botswana.png" alt="Botswana" /> Botswana</a>
-    <a href="#"><img src="Drapeaux/Bresil.png" alt="Brésil" /> Brésil</a>
-    <a href="#"><img src="Drapeaux/Brunei.png" alt="Brunei" /> Brunei</a>
-    <a href="#"><img src="Drapeaux/Bulgarie.png" alt="Bulgarie" /> Bulgarie</a>
-    <a href="#"><img src="Drapeaux/Burkina_Faso.png" alt="Burkina Faso" /> Burkina Faso</a>
-    <a href="#"><img src="Drapeaux/Burundi.png" alt="Burundi" /> Burundi</a>
     <a href="#"><img src="Drapeaux/Cambodge.png" alt="Cambodge" /> Cambodge</a>
     <a href="#"><img src="Drapeaux/Cameroun.webp" alt="Cameroun" /> Cameroun</a>
     <a href="#"><img src="Drapeaux/Canada.png" alt="Canada" /> Canada</a>
