@@ -36,15 +36,15 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Cameroun", flag: "Drapeaux/Cameroun.webp" },
     { code: "XX", name: "Canada", flag: "Drapeaux/Canada.png" },
     { code: "XX", name: "Cap_Vert", flag: "Drapeaux/Cap_Vert.png" },
+    { code: "XX", name: "Republique_Centrafricaine", flag: "Drapeaux/Republique_Centrafricaine.webp" },
+    { code: "XX", name: "Chili", flag: "Drapeaux/Chili.png" },
+    { code: "XX", name: "Chine", flag: "Drapeaux/Chine.webp" },
+    { code: "XX", name: "Chypre", flag: "Drapeaux/Chypre.png" },
+    { code: "XX", name: "Colombie", flag: "Drapeaux/Colombie.png" },
+    { code: "XX", name: "Comores", flag: "Drapeaux/Comores.png" },
+    { code: "XX", name: "Congo", flag: "Drapeaux/Congo" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Republique_Centrafricaine.webp" alt="Centrafrique (République de)" /> Centrafrique (République de)</a>
-    <a href="#"><img src="Drapeaux/Chili.png" alt="Chili" /> Chili</a>
-    <a href="#"><img src="Drapeaux/Chine.webp" alt="Chine" /> Chine</a>
-    <a href="#"><img src="Drapeaux/Chypre.png" alt="Chypre" /> Chypre</a>
-    <a href="#"><img src="Drapeaux/Colombie.png" alt="Colombie" /> Colombie</a>
-    <a href="#"><img src="Drapeaux/Comores.png" alt="Comores" /> Comores</a>
-    <a href="#"><img src="Drapeaux/Congo.png" alt="Congo (Brazzaville)" /> Congo (Brazzaville)</a>
     <a href="#"><img src="Drapeaux/Republique_Democratique_Du_Congo.webp" alt="Congo (République démocratique du)" /> Congo (République démocratique du)</a>
     <a href="#"><img src="Drapeaux/Coree_Du_Nord.png" alt="Corée du Nord" /> Corée du Nord</a>
     <a href="#"><img src="Drapeaux/Coree_Du_Sud.webp" alt="Corée du Sud" /> Corée du Sud</a>
