@@ -43,18 +43,18 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Colombie", flag: "Drapeaux/Colombie.png" },
     { code: "XX", name: "Comores", flag: "Drapeaux/Comores.png" },
     { code: "XX", name: "Congo", flag: "Drapeaux/Congo" },
+    { code: "XX", name: "Republique_Democratique_Du_Congo", flag: "Drapeaux/Republique_Democratique_Du_Congo.webp" },
+    { code: "XX", name: "Coree_Du_Nord", flag: "Drapeaux/Coree_Du_Nord.png" },
+    { code: "XX", name: "Coree_Du_Sud", flag: "Drapeaux/Coree_Du_Sud.webp" },
+    { code: "XX", name: "Costa_Rica", flag: "Drapeaux/Costa_Rica.png" },
+    { code: "XX", name: "Cote_Divoire", flag: "Drapeaux/Cote_Divoire.png" },
+    { code: "XX", name: "Croatie", flag: "Drapeaux/Croatie.png" },
+    { code: "XX", name: "Cuba", flag: "Drapeaux/Cuba.png" },
+    { code: "XX", name: "Danemark", flag: "Drapeaux/Danemark.png" },
+    { code: "XX", name: "Djibouti", flag: "Drapeaux/Djibouti.png" },
+    { code: "XX", name: "Dominique", flag: "Drapeaux/Dominique.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Republique_Democratique_Du_Congo.webp" alt="Congo (République démocratique du)" /> Congo (République démocratique du)</a>
-    <a href="#"><img src="Drapeaux/Coree_Du_Nord.png" alt="Corée du Nord" /> Corée du Nord</a>
-    <a href="#"><img src="Drapeaux/Coree_Du_Sud.webp" alt="Corée du Sud" /> Corée du Sud</a>
-    <a href="#"><img src="Drapeaux/Costa_Rica.png" alt="Costa Rica" /> Costa Rica</a>
-    <a href="#"><img src="Drapeaux/Cote_Divoire.png" alt="Côte d'Ivoire" /> Côte d'Ivoire</a>
-    <a href="#"><img src="Drapeaux/Croatie.png" alt="Croatie" /> Croatie</a>
-    <a href="#"><img src="Drapeaux/Cuba.png" alt="Cuba" /> Cuba</a>
-    <a href="#"><img src="Drapeaux/Danemark.png" alt="Danemark" /> Danemark</a>
-    <a href="#"><img src="Drapeaux/Djibouti.png" alt="Djibouti" /> Djibouti</a>
-    <a href="#"><img src="Drapeaux/Dominique.png" alt="Dominique" /> Dominique</a>
     <a href="#"><img src="Drapeaux/Egypte.png" alt="Égypte" /> Égypte</a>
     <a href="#"><img src="Drapeaux/Emirats_Arabe_Unis.png" alt="Émirats arabes unis" /> Émirats arabes unis</a>
     <a href="#"><img src="Drapeaux/Equateur.png" alt="Équateur" /> Équateur</a>
