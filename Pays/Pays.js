@@ -57,28 +57,28 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Emirats_Arabe_Unis", flag: "Drapeaux/Emirats_Arabe_Unis.png" },
     { code: "XX", name: "Equateur", flag: "Drapeaux/Equateur.png" },
     { code: "XX", name: "Erythree", flag: "Drapeaux/Erythree.png" },
+    { code: "XX", name: "Espagne", flag: "Drapeaux/Espagne.png" },
+    { code: "XX", name: "Estonie", flag: "Drapeaux/Estonie.png" },
+    { code: "XX", name: "Eswatini", flag: "Drapeaux/Eswatini.png" },
+    { code: "XX", name: "Etats-Unis", flag: "Drapeaux/Etats_Unis.png" },
+    { code: "XX", name: "Ethiopie", flag: "Drapeaux/Ethiopie.png" },
+    { code: "XX", name: "Fidji", flag: "Drapeaux/Fidji.png" },
+    { code: "XX", name: "Finlande", flag: "Drapeaux/Finlande.webp" },
+    { code: "XX", name: "France", flag: "Drapeaux/France.png" },
+    { code: "XX", name: "Gabon", flag: "Drapeaux/Gabon.webp" },
+    { code: "XX", name: "Gambie", flag: "Drapeaux/Gambie.png" },
+    { code: "XX", name: "Georgie", flag: "Drapeaux/Georgie.png" },
+    { code: "XX", name: "Ghana", flag: "Drapeaux/Ghana.png" },
+    { code: "XX", name: "Grece", flag: "Drapeaux/Grece.png" },
+    { code: "XX", name: "Grenade", flag: "Drapeaux/Grenade.png" },
+    { code: "XX", name: "Guatemala", flag: "Drapeaux/Guatemala.png" },
+    { code: "XX", name: "Guinee", flag: "Drapeaux/Guinee.png" },
+    { code: "XX", name: "Guinee_Equatoriale", flag: "Drapeaux/Guinee_Equatorale.png" },
+    { code: "XX", name: "Guinee_Bissau", flag: "Drapeaux/Guinee_Bissau.png" },
+    { code: "XX", name: "Guyana", flag: "Drapeaux/Guyana.png" },
+    { code: "XX", name: "Haiti", flag: "Drapeaux/Haiti.png" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Erythree.png" alt="Érythrée" /> Érythrée</a>
-    <a href="#"><img src="Drapeaux/Espagne.png" alt="Espagne" /> Espagne</a>
-    <a href="#"><img src="Drapeaux/Estonie.png" alt="Estonie" /> Estonie</a>
-    <a href="#"><img src="Drapeaux/Eswatini.png" alt="Eswatini" /> Eswatini</a>
-    <a href="#"><img src="Drapeaux/Etats_Unis.png" alt="États-Unis" /> États-Unis</a>
-    <a href="#"><img src="Drapeaux/Ethiopie.png" alt="Éthiopie" /> Éthiopie</a>
-    <a href="#"><img src="Drapeaux/Fidji.png" alt="Fidji" /> Fidji</a>
-    <a href="#"><img src="Drapeaux/Finlande.webp" alt="Finlande" /> Finlande</a>
-    <a href="#"><img src="Drapeaux/France.png" alt="France" /> France</a>
-    <a href="#"><img src="Drapeaux/Gabon.webp" alt="Gabon" /> Gabon</a>
-    <a href="#"><img src="Drapeaux/Gambie.png" alt="Gambie" /> Gambie</a>
-    <a href="#"><img src="Drapeaux/Georgie.png" alt="Géorgie" /> Géorgie</a>
-    <a href="#"><img src="Drapeaux/Ghana.png" alt="Ghana" /> Ghana</a>
-    <a href="#"><img src="Drapeaux/Grece.png" alt="Grèce" /> Grèce</a>
-    <a href="#"><img src="Drapeaux/Grenade.png" alt="Grenade" /> Grenade</a>
-    <a href="#"><img src="Drapeaux/Guatemala.png" alt="Guatemala" /> Guatemala</a>
-    <a href="#"><img src="Drapeaux/Guinee.png" alt="Guinée" /> Guinée</a>
-    <a href="#"><img src="Drapeaux/Guinee_Equatorale.png" alt="Guinée équatoriale" /> Guinée équatoriale</a>
-    <a href="#"><img src="Drapeaux/Guinee_Bissau.png" alt="Guinée-Bissau" /> Guinée-Bissau</a>
-    <a href="#"><img src="Drapeaux/Guyana.png" alt="Guyana" /> Guyana</a>
-    <a href="#"><img src="Drapeaux/Haiti.png" alt="Haïti" /> Haïti</a>
+    { code: "XX", name: "XX", flag: "XX" },
     <a href="#"><img src="Drapeaux/Honduras.png" alt="Honduras" /> Honduras</a>
     <a href="#"><img src="Drapeaux/Hongrie.png" alt="Hongrie" /> Hongrie</a>
     <a href="#"><img src="Drapeaux/Iles_Cook.png" alt="Îles Cook" /> Îles Cook</a>
