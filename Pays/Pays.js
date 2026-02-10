@@ -135,11 +135,11 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Oman", flag: "Drapeaux/Oman.png" },
     { code: "XX", name: "Ouganda", flag: "Drapeaux/Ouganda.png" },
     { code: "XX", name: "Ouzbekistan", flag: "Drapeaux/Ouzbekistan.png" },
+    { code: "XX", name: "Pakistan", flag: "Drapeaux/Pakistan.png" },
+    { code: "XX", name: "Palaos", flag: "Drapeaux/Palaos.png" },
+    { code: "XX", name: "Palestine", flag: "Drapeaux/Palestine.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Pakistan.png" alt="Pakistan" /> Pakistan</a>
-    <a href="#"><img src="Drapeaux/Palaos.png" alt="Palaos" /> Palaos</a>
-    <a href="#"><img src="Drapeaux/Palestine.png" alt="Palestine" /> Palestine</a>
     <a href="#"><img src="Drapeaux/Panama.png" alt="Panama" /> Panama</a>
     <a href="#"><img src="Drapeaux/Papouasie_Nouvelle-Guinee.png" alt="Papouasie-Nouvelle-Guinée" /> Papouasie-Nouvelle-Guinée</a>
     <a href="#"><img src="Drapeaux/Paraguay.png" alt="Paraguay" /> Paraguay</a>
