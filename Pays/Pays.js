@@ -143,14 +143,14 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Paraguay", flag: "Drapeaux/Paraguay.png" },
     { code: "XX", name: "Pays-Bas", flag: "Drapeaux/Pays-Bas.png" },
     { code: "XX", name: "Perou", flag: "Drapeaux/Perou.png" },
+    { code: "XX", name: "Philippines", flag: "Drapeaux/Philippines.png" },
+    { code: "XX", name: "Pologne", flag: "Drapeaux/Pologne.png" },
+    { code: "XX", name: "Portugal", flag: "Drapeaux/Portugal.png" },
+    { code: "XX", name: "Qatar", flag: "Drapeaux/Quatar.png" },
+    { code: "XX", name: "Republique_Dominicaine", flag: "Republique_Dominicaine.png" },
+    { code: "XX", name: "Republique_Tcheque", flag: "Republique_Tcheque.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Philippines.png" alt="Philippines" /> Philippines</a>
-    <a href="#"><img src="Drapeaux/Pologne.png" alt="Pologne" /> Pologne</a>
-    <a href="#"><img src="Drapeaux/Portugal.png" alt="Portugal" /> Portugal</a>
-    <a href="#"><img src="Drapeaux/Qatar.png" alt="Qatar" /> Qatar</a>
-    <a href="#"><img src="Drapeaux/Republique_Dominicaine.png" alt="République dominicaine" /> République dominicaine</a>
-    <a href="#"><img src="" alt="République tchèque" /> République tchèque</a>
     <a href="#"><img src="Drapeaux/Roumanie.png" alt="Roumanie" /> Roumanie</a>
     <a href="#"><img src="Drapeaux/Royaume-Uni.png" alt="Royaume-Uni" /> Royaume-Uni</a>
     <a href="#"><img src="Drapeaux/Russie.png" alt="Russie" /> Russie</a>
