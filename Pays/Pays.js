@@ -138,13 +138,13 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Pakistan", flag: "Drapeaux/Pakistan.png" },
     { code: "XX", name: "Palaos", flag: "Drapeaux/Palaos.png" },
     { code: "XX", name: "Palestine", flag: "Drapeaux/Palestine.png" },
+    { code: "XX", name: "Panama", flag: "Drapeaux/Panama.png" },
+    { code: "XX", name: "Papouasie_Nouvelle-Guinee", flag: "Drapeaux/Papouasie_Nouvelle-Guinee.png" },
+    { code: "XX", name: "Paraguay", flag: "Drapeaux/Paraguay.png" },
+    { code: "XX", name: "Pays-Bas", flag: "Drapeaux/Pays-Bas.png" },
+    { code: "XX", name: "Perou", flag: "Drapeaux/Perou.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Panama.png" alt="Panama" /> Panama</a>
-    <a href="#"><img src="Drapeaux/Papouasie_Nouvelle-Guinee.png" alt="Papouasie-Nouvelle-Guinée" /> Papouasie-Nouvelle-Guinée</a>
-    <a href="#"><img src="Drapeaux/Paraguay.png" alt="Paraguay" /> Paraguay</a>
-    <a href="#"><img src="Drapeaux/Pays-Bas.png" alt="Pays-Bas" /> Pays-Bas</a>
-    <a href="#"><img src="Drapeaux/Perou.png" alt="Pérou" /> Pérou</a>
     <a href="#"><img src="Drapeaux/Philippines.png" alt="Philippines" /> Philippines</a>
     <a href="#"><img src="Drapeaux/Pologne.png" alt="Pologne" /> Pologne</a>
     <a href="#"><img src="Drapeaux/Portugal.png" alt="Portugal" /> Portugal</a>
