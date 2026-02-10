@@ -77,38 +77,38 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Guinee_Bissau", flag: "Drapeaux/Guinee_Bissau.png" },
     { code: "XX", name: "Guyana", flag: "Drapeaux/Guyana.png" },
     { code: "XX", name: "Haiti", flag: "Drapeaux/Haiti.png" },
+    { code: "XX", name: "Honduras", flag: "Drapeaux/Honduras.png" },
+    { code: "XX", name: "Hongrie", flag: "Drapeaux/Hongrie.png" },
+    { code: "XX", name: "Iles_Cook", flag: "Drapeaux/Iles_Cook.png" },
+    { code: "XX", name: "Iles_Marshall", flag: "Drapeaux/Marshall.png" },
+    { code: "XX", name: "Inde", flag: "Drapeaux/Inde.png" },
+    { code: "XX", name: "Indonesie", flag: "Drapeaux/Indoniesie.png" },
+    { code: "XX", name: "Irak", flag: "Drapeaux/Irak.png" },
+    { code: "XX", name: "Iran", flag: "Drapeaux/Iran.png" },
+    { code: "XX", name: "Irlande", flag: "Drapeaux/Irelande.png" },
+    { code: "XX", name: "Islande", flag: "Drapeaux/Islande.png" },
+    { code: "XX", name: "Israel", flag: "Drapeaux/Israel.png" },
+    { code: "XX", name: "Italie", flag: "Drapeaux/Italie.png" },
+    { code: "XX", name: "Jamaique", flag: "Drapeaux/Jamaique.png" },
+    { code: "XX", name: "Japon", flag: "Drapeaux/Japon.png" },
+    { code: "XX", name: "Jordanie", flag: "Drapeaux/Jordanie.png" },
+    { code: "XX", name: "Kazakhstan", flag: "Drapeaux/Kazakhstan.png" },
+    { code: "XX", name: "Kenya", flag: "Drapeaux/Kenya.png" },
+    { code: "XX", name: "Kirghizistan", flag: "Drapeaux/Kyrghistan.png" },
+    { code: "XX", name: "Kiribati", flag: "Drapeaux/Kiribati.png" },
+    { code: "XX", name: "Kosovo", flag: "Drapeaux/Kosovo.png" },
+    { code: "XX", name: "Koweit", flag: "Drapeaux/Koweit.png" },
+    { code: "XX", name: "Laos", flag: "Drapeaux/Laos.png" },
+    { code: "XX", name: "Lesotho", flag: "Drapeaux/Lesotho.png" },
+    { code: "XX", name: "Lettonie", flag: "Drapeaux/Lettonie.png" },
+    { code: "XX", name: "Liban", flag: "Drapeaux/Liban.png" },
+    { code: "XX", name: "Liberia", flag: "Drapeaux/Liberia.png" },
+    { code: "XX", name: "Libye", flag: "Drapeaux/Libye.png" },
+    { code: "XX", name: "Liechtenstein", flag: "Drapeaux/Liechtenstein.png" },
+    { code: "XX", name: "Lituanie", flag: "Drapeaux/Lituanie.png" },
+    { code: "XX", name: "Luxembourg", flag: "Drapeaux/Luxembourg.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Honduras.png" alt="Honduras" /> Honduras</a>
-    <a href="#"><img src="Drapeaux/Hongrie.png" alt="Hongrie" /> Hongrie</a>
-    <a href="#"><img src="Drapeaux/Iles_Cook.png" alt="Îles Cook" /> Îles Cook</a>
-    <a href="#"><img src="Drapeaux/Marshall.png" alt="Îles Marshall" /> Îles Marshall</a>
-    <a href="#"><img src="Drapeaux/Inde.png" alt="Inde" /> Inde</a>
-    <a href="#"><img src="Drapeaux/Indonesie.png" alt="Indonésie" /> Indonésie</a>
-    <a href="#"><img src="Drapeaux/Irak.png" alt="Irak" /> Irak</a>
-    <a href="#"><img src="Drapeaux/Iran.png" alt="Iran" /> Iran</a>
-    <a href="#"><img src="Drapeaux/Irelande.png" alt="Irlande" /> Irlande</a>
-    <a href="#"><img src="Drapeaux/Islande.png" alt="Islande" /> Islande</a>
-    <a href="#"><img src="Drapeaux/Israel.png" alt="Israël" /> Israël</a>
-    <a href="#"><img src="Drapeaux/Italie.png" alt="Italie" /> Italie</a>
-    <a href="#"><img src="Drapeaux/Jamaique.png" alt="Jamaïque" /> Jamaïque</a>
-    <a href="#"><img src="Drapeaux/Japon.png" alt="Japon" /> Japon</a>
-    <a href="#"><img src="Drapeaux/Jordanie.png" alt="Jordanie" /> Jordanie</a>
-    <a href="#"><img src="Drapeaux/Kazakhstan.png" alt="Kazakhstan" /> Kazakhstan</a>
-    <a href="#"><img src="Drapeaux/Kenya.png" alt="Kenya" /> Kenya</a>
-    <a href="#"><img src="Drapeaux/Kyrghistan.png" alt="Kirghizistan" /> Kirghizistan</a>
-    <a href="#"><img src="Drapeaux/Kiribati.png" alt="Kiribati" /> Kiribati</a>
-    <a href="#"><img src="" alt="Kosovo" /> Kosovo</a>
-    <a href="#"><img src="Drapeaux/Koweit.png" alt="Koweït" /> Koweït</a>
-    <a href="#"><img src="Drapeaux/Laos.png" alt="Laos" /> Laos</a>
-    <a href="#"><img src="Drapeaux/Lesotho.png" alt="Lesotho" /> Lesotho</a>
-    <a href="#"><img src="Drapeaux/Lettonie.png" alt="Lettonie" /> Lettonie</a>
-    <a href="#"><img src="Drapeaux/Liban.png" alt="Liban" /> Liban</a>
-    <a href="#"><img src="Drapeaux/Liberia.png" alt="Libéria" /> Libéria</a>
-    <a href="#"><img src="Drapeaux/Libye.png" alt="Libye" /> Libye</a>
-    <a href="#"><img src="Drapeaux/Liechtenstein.png" alt="Liechtenstein" /> Liechtenstein</a>
-    <a href="#"><img src="Drapeaux/Lituanie.png" alt="Lituanie" /> Lituanie</a>
-    <a href="#"><img src="Drapeaux/Luxembourg.png" alt="Luxembourg" /> Luxembourg</a>
     <a href="#"><img src="Drapeaux/Macedoine_Du_Nord.png" alt="Macédoine du Nord" /> Macédoine du Nord</a>
     <a href="#"><img src="Drapeaux/Madagascar.png" alt="Madagascar" /> Madagascar</a>
     <a href="#"><img src="Drapeaux/Malaisie.png" alt="Malaisie" /> Malaisie</a>
