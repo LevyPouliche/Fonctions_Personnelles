@@ -123,20 +123,20 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Monaco", flag: "Drapeaux/Monaco.png" },
     { code: "XX", name: "Mongolie", flag: "Drapeaux/Mongolie.png" },
     { code: "XX", name: "Montenegro", flag: "Drapeaux/Montenegro.png" },
+    { code: "XX", name: "Mozambique", flag: "Drapeaux/Mozambique.png" },
+    { code: "XX", name: "Namibie", flag: "Drapeaux/Namibie.png" },
+    { code: "XX", name: "Nauru", flag: "Drapeaux/Nauru.png" },
+    { code: "XX", name: "Nepal", flag: "Drapeaux/Nepal.png" },
+    { code: "XX", name: "Nicaragua", flag: "Drapeaux/Nicaragua.png" },
+    { code: "XX", name: "Niger", flag: "Drapeaux/Niger.png" },
+    { code: "XX", name: "Nigeria", flag: "Drapeaux/Nigeria.webp" },
+    { code: "XX", name: "Norvege", flag: "Drapeaux/Norvege.png" },
+    { code: "XX", name: "Nouvelle-Zelande", flag: "Drapeaux/Nouvelle-Zelande.png" },
+    { code: "XX", name: "Oman", flag: "Drapeaux/Oman.png" },
+    { code: "XX", name: "Ouganda", flag: "Drapeaux/Ouganda.png" },
+    { code: "XX", name: "Ouzbekistan", flag: "Drapeaux/Ouzbekistan.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Mozambique.png" alt="Mozambique" /> Mozambique</a>
-    <a href="#"><img src="Drapeaux/Namibie.png" alt="Namibie" /> Namibie</a>
-    <a href="#"><img src="Drapeaux/Nauru.png" alt="Nauru" /> Nauru</a>
-    <a href="#"><img src="Drapeaux/Nepal.png" alt="Népal" /> Népal</a>
-    <a href="#"><img src="Drapeaux/Nicaragua.png" alt="Nicaragua" /> Nicaragua</a>
-    <a href="#"><img src="Drapeaux/Niger.png" alt="Niger" /> Niger</a>
-    <a href="#"><img src="Drapeaux/Nigeria.webp" alt="Nigeria" /> Nigeria</a>
-    <a href="#"><img src="Drapeaux/Norvege.png" alt="Norvège" /> Norvège</a>
-    <a href="#"><img src="Drapeaux/Nouvelle-Zelande.png" alt="Nouvelle-Zélande" /> Nouvelle-Zélande</a>
-    <a href="#"><img src="Drapeaux/Oman.png" alt="Oman" /> Oman</a>
-    <a href="#"><img src="Drapeaux/Ouganda.png" alt="Ouganda" /> Ouganda</a>
-    <a href="#"><img src="Drapeaux/Ouzbekistan.png" alt="Ouzbékistan" /> Ouzbékistan</a>
     <a href="#"><img src="Drapeaux/Pakistan.png" alt="Pakistan" /> Pakistan</a>
     <a href="#"><img src="Drapeaux/Palaos.png" alt="Palaos" /> Palaos</a>
     <a href="#"><img src="Drapeaux/Palestine.png" alt="Palestine" /> Palestine</a>
