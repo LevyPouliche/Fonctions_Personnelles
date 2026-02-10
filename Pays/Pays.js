@@ -107,24 +107,24 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Liechtenstein", flag: "Drapeaux/Liechtenstein.png" },
     { code: "XX", name: "Lituanie", flag: "Drapeaux/Lituanie.png" },
     { code: "XX", name: "Luxembourg", flag: "Drapeaux/Luxembourg.png" },
+    { code: "XX", name: "Macedoine_Du_Nord", flag: "Drapeaux/Macedoine_Du_Nord.png" },
+    { code: "XX", name: "Madagascar", flag: "Drapeaux/Madagascar.png" },
+    { code: "XX", name: "Malaisie", flag: "Drapeaux/Malaisie.png" },
+    { code: "XX", name: "Malawi", flag: "Drapeaux/Malawi.png" },
+    { code: "XX", name: "Maldives", flag: "Drapeaux/Maldives.png" },
+    { code: "XX", name: "Mali", flag: "Drapeaux/Mali.webp" },
+    { code: "XX", name: "Malte", flag: "Drapeaux/Malte.png" },
+    { code: "XX", name: "Maroc", flag: "Drapeaux/Maroc.webp" },
+    { code: "XX", name: "Maurice", flag: "Drapeaux/Maurice.png" },
+    { code: "XX", name: "Mauritanie", flag: "Drapeaux/Mauritanie.png" },
+    { code: "XX", name: "Mexique", flag: "Drapeaux/Mexique.webp" },
+    { code: "XX", name: "Micronesie", flag: "Drapeaux/Micronesie.png" },
+    { code: "XX", name: "Moldavie", flag: "Drapeaux/Moldavie.png" },
+    { code: "XX", name: "Monaco", flag: "Drapeaux/Monaco.png" },
+    { code: "XX", name: "Mongolie", flag: "Drapeaux/Mongolie.png" },
+    { code: "XX", name: "Montenegro", flag: "Drapeaux/Montenegro.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Macedoine_Du_Nord.png" alt="Macédoine du Nord" /> Macédoine du Nord</a>
-    <a href="#"><img src="Drapeaux/Madagascar.png" alt="Madagascar" /> Madagascar</a>
-    <a href="#"><img src="Drapeaux/Malaisie.png" alt="Malaisie" /> Malaisie</a>
-    <a href="#"><img src="Drapeaux/Malawi.png" alt="Malawi" /> Malawi</a>
-    <a href="#"><img src="Drapeaux/Maldives.png" alt="Maldives" /> Maldives</a>
-    <a href="#"><img src="Drapeaux/Mali.webp" alt="Mali" /> Mali</a>
-    <a href="#"><img src="Drapeaux/Malte.png" alt="Malte" /> Malte</a>
-    <a href="#"><img src="Drapeaux/Maroc.webp" alt="Maroc" /> Maroc</a>
-    <a href="#"><img src="Drapeaux/Maurice.png" alt="Maurice" /> Maurice</a>
-    <a href="#"><img src="Drapeaux/Mauritanie.png" alt="Mauritanie" /> Mauritanie</a>
-    <a href="#"><img src="Drapeaux/Mexique.webp" alt="Mexique" /> Mexique</a>
-    <a href="#"><img src="Drapeaux/Micronesie.png" alt="Micronésie" /> Micronésie</a>
-    <a href="#"><img src="Drapeaux/Moldavie.png" alt="Moldavie" /> Moldavie</a>
-    <a href="#"><img src="Drapeaux/Monaco.png" alt="Monaco" /> Monaco</a>
-    <a href="#"><img src="Drapeaux/Mongolie.png" alt="Mongolie" /> Mongolie</a>
-    <a href="#"><img src="Drapeaux/Montenegro.png" alt="Monténégro" /> Monténégro</a>
     <a href="#"><img src="Drapeaux/Mozambique.png" alt="Mozambique" /> Mozambique</a>
     <a href="#"><img src="Drapeaux/Namibie.png" alt="Namibie" /> Namibie</a>
     <a href="#"><img src="Drapeaux/Nauru.png" alt="Nauru" /> Nauru</a>
