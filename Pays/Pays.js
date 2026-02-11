@@ -183,22 +183,20 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Timor_Oriental", flag: "Drapeaux/Timor_Oriental.png" },
     { code: "XX", name: "Togo", flag: "Drapeaux/Togo.png" },
     { code: "XX", name: "Tonga", flag: "Drapeaux/Tonga.png" },
-    { code: "XX", name: "XX", flag: "XX" },
-    { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Trinite_Et_Tobago.png" alt="Trinité-et-Tobago" /> Trinité-et-Tobago</a>
-    <a href="#"><img src="Drapeaux/Tunisie.png" alt="Tunisie" /> Tunisie</a>
-    <a href="#"><img src="Drapeaux/Turkmenistan.png" alt="Turkménistan" /> Turkménistan</a>
-    <a href="#"><img src="Drapeaux/Turquie.webp" alt="Turquie" /> Turquie</a>
-    <a href="#"><img src="Drapeaux/Tuvalu.png" alt="Tuvalu" /> Tuvalu</a>
-    <a href="#"><img src="Drapeaux/Ukraine.png" alt="Ukraine" /> Ukraine</a>
-    <a href="#"><img src="Drapeaux/Uruguay.png" alt="Uruguay" /> Uruguay</a>
-    <a href="#"><img src="Drapeaux/Vanuatu.png" alt="Vanuatu" /> Vanuatu</a>
-    <a href="#"><img src="Drapeaux/Vatican.png" alt="Vatican" /> Vatican</a>
-    <a href="#"><img src="Drapeaux/Venezuela.webp" alt="Venezuela" /> Venezuela</a>
-    <a href="#"><img src="Drapeaux/Vietnam.png" alt="Viêt Nam" /> Viêt Nam</a>
-    <a href="#"><img src="Drapeaux/Yemen.png" alt="Yémen" /> Yémen</a>
-    <a href="#"><img src="Drapeaux/Zambie.png" alt="Zambie" /> Zambie</a>
-    <a href="#"><img src="Drapeaux/Zimbabwe.png" alt="Zimbabwe" /> Zimbabwe</a>
+    { code: "XX", name: "Trinite_et_Tobago", flag: "Drapeaux/Trinite_Et_Tobago.png" },
+    { code: "XX", name: "Tunisie", flag: "Drapeaux/Tunisie.png" },
+    { code: "XX", name: "Turkmenistan", flag: "Drapeaux/Turkmenistan.png" },
+    { code: "XX", name: "Turquie", flag: "Drapeaux/Turquie.webp" },
+    { code: "XX", name: "Tuvalu", flag: "Drapeaux/Tuvalu.png" },
+    { code: "XX", name: "Ukraine", flag: "Drapeaux/Ukraine.png" },
+    { code: "XX", name: "Uruguay", flag: "Drapeaux/Uruguay.png" },
+    { code: "XX", name: "Vanuatu", flag: "Drapeaux/Vanuatu.png" },
+    { code: "XX", name: "Vatican", flag: "Drapeaux/Vatican.png" },
+    { code: "XX", name: "Venezuela", flag: "Drapeaux/Venezuela.webp" },
+    { code: "XX", name: "Vietnam", flag: "Drapeaux/Vietnam.png" },
+    { code: "XX", name: "Yemen", flag: "Drapeaux/Yemen.png" },
+    { code: "XX", name: "Zambie", flag: "Drapeaux/Zambie.png" },
+    { code: "XX", name: "Zimbabwe", flag: "Drapeaux/Zimbabwe.png" }
   ];
 
   const container = document.getElementById(containerId);
