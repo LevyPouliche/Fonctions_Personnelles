@@ -176,15 +176,15 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Suisse", flag: "Drapeaux/Suisse.png" },
     { code: "XX", name: "Suriname", flag: "Drapeaux/Suriname" },
     { code: "XX", name: "Syrie", flag: "Drapeaux/Syrie.png" },
+    { code: "XX", name: "Tadjikistan", flag: "Drapeaux/Tadjikistan.png" },
+    { code: "XX", name: "Tanzanie", flag: "Drapeaux/Tanzanie.png" },
+    { code: "XX", name: "Tchad", flag: "Drapeaux/Tchad.png" },
+    { code: "XX", name: "Thailande", flag: "Drapeaux/Thailand.png" },
+    { code: "XX", name: "Timor_Oriental", flag: "Drapeaux/Timor_Oriental.png" },
+    { code: "XX", name: "Togo", flag: "Drapeaux/Togo.png" },
+    { code: "XX", name: "Tonga", flag: "Drapeaux/Tonga.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Tadjikistan.png" alt="Tadjikistan" /> Tadjikistan</a>
-    <a href="#"><img src="Drapeaux/Tanzanie.png" alt="Tanzanie" /> Tanzanie</a>
-    <a href="#"><img src="Drapeaux/Tchad.png" alt="Tchad" /> Tchad</a>
-    <a href="#"><img src="Drapeaux/Thailand.png" alt="Thaïlande" /> Thaïlande</a>
-    <a href="#"><img src="Drapeaux/Timor_Oriental.png" alt="Timor oriental" /> Timor oriental</a>
-    <a href="#"><img src="Drapeaux/Togo.png" alt="Togo" /> Togo</a>
-    <a href="#"><img src="Drapeaux/Tonga.png" alt="Tonga" /> Tonga</a>
     <a href="#"><img src="Drapeaux/Trinite_Et_Tobago.png" alt="Trinité-et-Tobago" /> Trinité-et-Tobago</a>
     <a href="#"><img src="Drapeaux/Tunisie.png" alt="Tunisie" /> Tunisie</a>
     <a href="#"><img src="Drapeaux/Turkmenistan.png" alt="Turkménistan" /> Turkménistan</a>
