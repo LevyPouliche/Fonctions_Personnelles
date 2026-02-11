@@ -1,3 +1,10 @@
+const container = document.getElementById(containerId);
+
+if (!container) {
+  console.error(`Container #${containerId} introuvable`);
+  return;
+}
+
 export function createCountrySelector(containerId) {
   const countries = [
     { code: "XX", name: "Afghanistan", flag: "Drapeaux/Afghanistan.png" },
