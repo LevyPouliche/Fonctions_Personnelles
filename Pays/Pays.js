@@ -147,37 +147,37 @@ export function createCountrySelector(containerId) {
     { code: "XX", name: "Pologne", flag: "Drapeaux/Pologne.png" },
     { code: "XX", name: "Portugal", flag: "Drapeaux/Portugal.png" },
     { code: "XX", name: "Qatar", flag: "Drapeaux/Quatar.png" },
-    { code: "XX", name: "Republique_Dominicaine", flag: "Republique_Dominicaine.png" },
-    { code: "XX", name: "Republique_Tcheque", flag: "Republique_Tcheque.png" },
+    { code: "XX", name: "Republique_Dominicaine", flag: "Drapeaux/Republique_Dominicaine.png" },
+    { code: "XX", name: "Republique_Tcheque", flag: "Drapeaux/Republique_Tcheque.png" },
+    { code: "XX", name: "Roumanie", flag: "Drapeaux/Roumanie.png" },
+    { code: "XX", name: "Royaume-Uni", flag: "Drapeaux/Royaume-Uni.png" },
+    { code: "XX", name: "Russie", flag: "Drapeaux/Russie.png" },
+    { code: "XX", name: "Rwanda", flag: "Drapeaux/Rwanda.png" },
+    { code: "XX", name: "Saint-Kitts-et-Nevis", flag: "Drapeaux/Saint-Kitts-et-Nevis.png" },
+    { code: "XX", name: "Saint_Marin", flag: "Drapeaux/Saint_Marin.png" },
+    { code: "XX", name: "Saint-Vincent_et_les_Grenadines", flag: "Drapeaux/Saint-Vincent_Et_Les_Grenadines.png" },
+    { code: "XX", name: "Sainte-Lucie", flag: "Drapeaux/Sainte-Lucie.png" },
+    { code: "XX", name: "Iles_Salomon", flag: "Drapeaux/Iles_Salomon.png" },
+    { code: "XX", name: "Salvador", flag: "Drapeaux/Salvador.png" },
+    { code: "XX", name: "Les_Samoas", flag: "Drapeaux/Les_Samoas.png" },
+    { code: "XX", name: "Sao_Tome-et-Principes", flag: "Drapeaux/Sao_Tome-Et_Principes.png" },
+    { code: "XX", name: "Senegal", flag: "Drapeaux/Senegal.webp" },
+    { code: "XX", name: "Serbie", flag: "Drapeaux/Serbie.png" },
+    { code: "XX", name: "Seychelles", flag: "Drapeaux/Seychelles.png" },
+    { code: "XX", name: "Sierra_Leone", flag: "Drapeaux/Sierra_Leone.png" },
+    { code: "XX", name: "Singapour", flag: "Drapeaux/Singapour.png" },
+    { code: "XX", name: "Slovaquie", flag: "Drapeaux/Slovaquie.png" },
+    { code: "XX", name: "Slovenie", flag: "Drapeaux/Slovenie.webp" },
+    { code: "XX", name: "Somalie", flag: "Drapeaux/Somalie.png" },
+    { code: "XX", name: "Soudan", flag: "Drapeaux/Soudan.png" },
+    { code: "XX", name: "Soudan_Du_Sud", flag: "Drapeaux/Soudan_Du_Sud.png" },
+    { code: "XX", name: "Sri_Lanka", flag: "Drapeaux/Sri_Lanka.png" },
+    { code: "XX", name: "Suede", flag: "Drapeaux/Suede.png" },
+    { code: "XX", name: "Suisse", flag: "Drapeaux/Suisse.png" },
+    { code: "XX", name: "Suriname", flag: "Drapeaux/Suriname" },
+    { code: "XX", name: "Syrie", flag: "Drapeaux/Syrie.png" },
     { code: "XX", name: "XX", flag: "XX" },
     { code: "XX", name: "XX", flag: "XX" },
-    <a href="#"><img src="Drapeaux/Roumanie.png" alt="Roumanie" /> Roumanie</a>
-    <a href="#"><img src="Drapeaux/Royaume-Uni.png" alt="Royaume-Uni" /> Royaume-Uni</a>
-    <a href="#"><img src="Drapeaux/Russie.png" alt="Russie" /> Russie</a>
-    <a href="#"><img src="Drapeaux/Rwanda.png" alt="Rwanda" /> Rwanda</a>
-    <a href="#"><img src="" alt="Saint-Kitts-et-Nevis" /> Saint-Kitts-et-Nevis</a>
-    <a href="#"><img src="Drapeaux/Saint_Marin.png" alt="Saint-Marin" /> Saint-Marin</a>
-    <a href="#"><img src="Drapeaux/Saint-Vincent_Et_Les_Grenadines.png" alt="Saint-Vincent-et-les-Grenadines" /> Saint-Vincent-et-les-Grenadines</a>
-    <a href="#"><img src="Drapeaux/Sainte-Lucie.png" alt="Sainte-Lucie" /> Sainte-Lucie</a>
-    <a href="#"><img src="Drapeaux/Iles_Salomon.png" alt="Salomon" /> Salomon</a>
-    <a href="#"><img src="Drapeaux/Salvador.png" alt="Salvador" /> Salvador</a>
-    <a href="#"><img src="Drapeaux/Les_Samoas.png" alt="Samoa" /> Samoa</a>
-    <a href="#"><img src="Drapeaux/Sao_Tome-Et_Principes.png" alt="Sao Tomé-et-Principe" /> Sao Tomé-et-Principe</a>
-    <a href="#"><img src="Drapeaux/Senegal.webp" alt="Sénégal" /> Sénégal</a>
-    <a href="#"><img src="Drapeaux/Serbie.png" alt="Serbie" /> Serbie</a>
-    <a href="#"><img src="Drapeaux/Seychelles.png" alt="Seychelles" /> Seychelles</a>
-    <a href="#"><img src="Drapeaux/Sierra_Leone.png" alt="Sierra Leone" /> Sierra Leone</a>
-    <a href="#"><img src="Drapeaux/Singapour.png" alt="Singapour" /> Singapour</a>
-    <a href="#"><img src="Drapeaux/Slovaquie.png" alt="Slovaquie" /> Slovaquie</a>
-    <a href="#"><img src="Drapeaux/Slovenie.webp" alt="Slovénie" /> Slovénie</a>
-    <a href="#"><img src="Drapeaux/Somalie.png" alt="Somalie" /> Somalie</a>
-    <a href="#"><img src="Drapeaux/Soudan.png" alt="Soudan" /> Soudan</a>
-    <a href="#"><img src="Drapeaux/Soudan_Du_Sud.png" alt="Soudan du Sud" /> Soudan du Sud</a>
-    <a href="#"><img src="Drapeaux/Sri_Lanka.png" alt="Sri Lanka" /> Sri Lanka</a>
-    <a href="#"><img src="Drapeaux/Suede.png" alt="Suède" /> Suède</a>
-    <a href="#"><img src="Drapeaux/Suisse.png" alt="Suisse" /> Suisse</a>
-    <a href="#"><img src="Drapeaux/Suriname.png" alt="Suriname" /> Suriname</a>
-    <a href="#"><img src="Drapeaux/Syrie.png" alt="Syrie" /> Syrie</a>
     <a href="#"><img src="Drapeaux/Tadjikistan.png" alt="Tadjikistan" /> Tadjikistan</a>
     <a href="#"><img src="Drapeaux/Tanzanie.png" alt="Tanzanie" /> Tanzanie</a>
     <a href="#"><img src="Drapeaux/Tchad.png" alt="Tchad" /> Tchad</a>
